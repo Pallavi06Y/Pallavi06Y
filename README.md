@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pallavi Yadav</h1>
-<h3 align="center">A An Aspiring Java developer 👩‍💻</h3>
+<h3 align="center">An Aspiring Java developer 👩‍💻</h3>
 
  [![](https://visitcount.itsvg.in/api?id=Pallavi06Y&icon=0&color=12)](https://visitcount.itsvg.in)
 # 💫 About Me:
